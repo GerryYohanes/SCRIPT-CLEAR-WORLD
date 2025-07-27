@@ -1,4 +1,4 @@
-# 🔧 SCRIPT-CLEAR-WORLD :dirt: AUTO FIND X LETTER AND CLEAR WORLD v1.0 :dirt:
+# 🔧 SCRIPT AUTO FIND X LETTER AND CLEAR WORLD v1.0 
 
 Script otomatis pembersih dan pengelola world Growtopia dengan fitur lengkap dan efisien. Cocok untuk single bot maupun multi-bot. Dirancang untuk meminimalisir banned dan memaksimalkan produktivitas.
 
