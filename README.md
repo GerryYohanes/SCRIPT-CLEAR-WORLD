@@ -1,5 +1,7 @@
 # 🔧 SCRIPT AUTO FIND X LETTER AND CLEAR WORLD v1.0 
 
+<img src="https://imgop.itemku.com/?url=https%3A%2F%2Fd1x91p7vw3vuq8.cloudfront.net%2Fitemku-upload%2F2024110%2Fsvoig3dwcq9faovyxsz9jj_thumbnail.jpg&amp;w=1033&amp;q=10" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 600px; height: 152px; margin: 0px; width: 304px;" alt="Beli World World Clear (4 letter NN /No Number) Growtopia Terlengkap dan  Termurah Juli 2025 2625508 | itemku" jsname="kn3ccd">
+
 Script otomatis pembersih dan pengelola world Growtopia dengan fitur lengkap dan efisien. Cocok untuk single bot maupun multi-bot. Dirancang untuk meminimalisir banned dan memaksimalkan produktivitas.
 
 ---
