@@ -1,1 +1,20 @@
 # SCRIPT-CLEAR-WORLD
+- Custom x letter and with/out number
+- 2 mode, mode find and lock, and mode clear world
+- Optional Save seed to other world
+- Auto take WL, jammer from storage world
+- Support multiple bot in 1 world when clearing world
+- Can limit bot in 1 world
+- You can reduce banned by using other bot to break world that you lock
+- optional edited webhook
+- Changed webhook now should be more light
+- Log to TXT file every create world
+- Webhook every activity bots
+- Auto detect flat world or no
+- Auto detect world locked or no
+- Auto skip nuked world
+- Added info finish world and uptime
+- Auto make public world, and turn on jammer
+- Auto trash is optional
+- All adjustable delay
+- Lock owner
